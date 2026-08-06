@@ -48,7 +48,6 @@ inputs.forEach((input, index) => {
 
 get_kyc_btn.addEventListener('click', () => {
     location.assign("https://t.me/Kycsupport22451");
-    // location.assign("{{url('/user/account')}}");
 });
 
 // these function checks if the user enter the correct code then take it to a new page
